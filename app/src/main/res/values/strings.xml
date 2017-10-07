@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xspeedit</string>
+    <string name="fill_boxes">Remplir les boites!</string>
+    <string name="enter_articles">Rentrer des tailles d\'articles</string>
+    <string name="small_card">Petit..</string>
+    <string name="big_card">GRAND !!</string>
+</resources>
